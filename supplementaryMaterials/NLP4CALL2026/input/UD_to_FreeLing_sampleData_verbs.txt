@@ -1,0 +1,3 @@
+33-5	33	1	komen	verb	komt	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+33-15	33	1	komen	verb	kom	VERB	Mood=Imp|VerbForm=Fin
+33-18	33	1	komen	verb	gekomen	VERB	Tense=Past|VerbForm=Part
