@@ -330,7 +330,7 @@ def convert_d_headwords_orig_into_unverified_spreadsheet(d_headwords_orig: dict)
 
     #   - CSVs
     os.makedirs(config.DIREC_INP_DATA_PROCSD / "NLLP-5000_inflectedForms_unverified_CSVs", exist_ok=True)
-    d_rows_per_pos = {pos: [] for pos in sorted(list(set(list(d_mapping_pos.values()))))}
+    d_rows_per_pos = {pos_new: [] for pos_new in l_pos_new_sorted}
     l_col_letters_xlsx = [
         "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V",
         "W", "X", "Y", "Z"
