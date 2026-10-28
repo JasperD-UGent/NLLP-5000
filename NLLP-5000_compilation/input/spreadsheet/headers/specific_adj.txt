@@ -1,0 +1,8 @@
+ST_standaard
+ST_verbogen
+ST_iets
+VT_standaard
+VT_verbogen
+VT_iets
+OT_standaard
+OT_verbogen

@@ -1,0 +1,15 @@
+zelfstandig
+hulp_regulier
+hulp_koppel
+hulp_modaal
+INF
+TT_1-2_inversie
+TT_2_je
+TT_3
+TT_4-5-6
+VT_1-2-3
+VT_4-5-6
+gebiedende_wijs
+aanvoegende_wijs
+TW_deelwoord
+VT_deelwoord

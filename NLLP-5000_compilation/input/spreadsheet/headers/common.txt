@@ -1,0 +1,5 @@
+checked
+comments
+frequency
+headword_orig
+POS_full

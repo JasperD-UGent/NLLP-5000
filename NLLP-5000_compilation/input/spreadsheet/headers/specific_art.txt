@@ -1,0 +1,7 @@
+bepaald
+onbepaald
+nominatief
+accusatief
+genitief
+datief
+verbogen

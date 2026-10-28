@@ -1,0 +1,12 @@
+M
+O
+V
+M-O
+M-O-V
+M-V
+O-V
+eigennaam
+standaardvorm_ENK
+standaardvorm_MV
+verkleinwoord_ENK
+verkleinwoord_MV

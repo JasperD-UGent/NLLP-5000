@@ -1,0 +1,17 @@
+aanwijzend
+betrekkelijk
+bezittelijk
+onbepaald
+persoonlijk
+wederkerend
+wederkerig
+vragend
+getal
+persoon
+geslacht
+nominatief
+accusatief
+genitief
+datief
+verbogen_e
+verbogen_n

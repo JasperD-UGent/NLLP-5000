@@ -1,0 +1,4 @@
+achterzetsel
+omzetsel
+voorzetsel
+onveranderlijke_vorm
