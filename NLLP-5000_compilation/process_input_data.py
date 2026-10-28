@@ -15,7 +15,7 @@ def main(path_input_data: str) -> None:
     """Entry point for the script. Processes the original Routledge dictionary and creates a spreadsheet that serves as
     input to create the final NLLP-5000 resource. The spreadsheet contains automatically populated inflected forms that
     need to be checked manually by an expert.
-    
+
     :param path_input_data: Path where the file containing the original Routledge dictionary in TXT format is located.
     :return: `None`
     """
