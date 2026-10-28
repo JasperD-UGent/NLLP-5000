@@ -208,6 +208,7 @@ def convert_raw_input_into_dic(path_input_data: str, logger: logging.Logger) -> 
 
         # Process entries that have one POS assigned to them
         else:
+            
             #   - Retrieve different translations of the entry (indicated by means of "a) ", "b) ", etc.)
             l_ids_translations_en = [
                 item.strip(") ") for item in re.findall("(^a\\) | [b-z]\\) )", translation_en_raw)
