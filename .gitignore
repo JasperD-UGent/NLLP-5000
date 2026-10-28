@@ -1,0 +1,20 @@
+# Environment variable files
+*.env
+
+# Virtual environment
+/venv*
+/.venv*
+
+# Python cache folders
+**/__pycache__
+
+# PyCharm folders
+/.idea
+
+# Output and log folders
+**/output*
+**/logs*
+
+# Folders containing deprecated and temporary data
+**/deprecated
+**/temp*
