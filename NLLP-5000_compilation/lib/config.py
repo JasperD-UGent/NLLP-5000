@@ -9,6 +9,7 @@ DIREC_SPREADSHEET_HEADERS = DIREC_INP / "spreadsheet" / "headers"
 
 DIREC_OUTP = DIREC_ROOT / "output"
 DIREC_INP_DATA_PROCSD = DIREC_OUTP / "inputData_procsd"
+DIREC_FINAL_RESOURCE = DIREC_OUTP / "finalResource"
 
 DIREC_LOGS = DIREC_ROOT / "logs"
 
