@@ -15,7 +15,7 @@ This repository includes the `NLLP-5000` lexical profiling resource for Dutch, a
 
 ## Related papers
 
-- NLP4CALL2026: Degraeuwe & Finlayson (2026)
+- NLP4CALL2026: Degraeuwe & Finlayson (in press)
 
 **NOTE**: Any materials supplementing these related papers are included in the `supplementaryMaterials` directory.
 
