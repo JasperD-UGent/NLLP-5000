@@ -11,6 +11,9 @@
 # PyCharm folders
 /.idea
 
+# Annotations
+**/input/spreadsheet/NLLP-5000_inflectedForms_verified_**.xlsx
+
 # Output and log folders
 **/output*
 **/logs*
