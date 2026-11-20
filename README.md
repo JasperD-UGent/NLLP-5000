@@ -15,10 +15,10 @@ This repository includes the `NLLP-5000` lexical profiling resource for Dutch, a
 
 ## Related papers
 
-- NLP4CALL2026: Degraeuwe & Finlayson (in press)
+- NLP4CALL2026: Degraeuwe & Finlayson (2026)
 
 **NOTE**: Any materials supplementing these related papers are included in the `supplementaryMaterials` directory.
 
 ## References
 
-- Degraeuwe, J., & Finlayson, N. (in press). Lexical Profiling for Dutch: From Resource to Real-Life Implementation. *Proceedings of the 15th Workshop on Natural Language Processing for Computer Assisted Language Learning*.
+- Degraeuwe, J., & Finlayson, N. (2026). Lexical Profiling for Dutch: From Resource to Real-Life Implementation. In A. Masciolini, D. Alfter, H. Lange, R. Muñoz Sánchez, I. Pilán, & E. Volodina (Eds), *Proceedings of the 15th Workshop on Natural Language Processing for Computer Assisted Language Learning* (pp. 16–33). University of Tartu Library. https://aclanthology.org/2026.nlp4call-1.2/
