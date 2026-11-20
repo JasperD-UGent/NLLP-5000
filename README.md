@@ -11,7 +11,7 @@ This repository includes the `NLLP-5000` lexical profiling resource for Dutch, a
 
 ## How to cite this dataset
 
-Degraeuwe, J., & Finlayson, N. (2026). NLLP-5000: A Lexical Profiling Resource for Dutch (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24392211
+Degraeuwe, J., & Finlayson, N. (2026). NLLP-5000: A Lexical Profiling Resource for Dutch (Version v1.1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24401435
 
 ## Related papers
 
